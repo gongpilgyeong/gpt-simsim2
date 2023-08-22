@@ -1,0 +1,15 @@
+#os
+.DS_STORE
+
+#Secret
+secrets.json
+
+#env
+.env
+
+#build dir
+/dist
+
+#log
+logs
+*.log
