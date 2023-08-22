@@ -1,5 +1,6 @@
 #os
 .DS_STORE
+pyvenv.cfg
 
 #Secret
 secrets.json
